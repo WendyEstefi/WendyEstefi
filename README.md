@@ -25,57 +25,56 @@
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me  
+## 📊 Proyectos Recientes  
 
-<p align="center">
-	<a href="mailto:wendyestefi1999@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/WendyEstefi"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/wendychicaiza/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+### [Sprint 14: Predicción de cancelación de servicios](https://github.com/WendyEstefi/TripleTen_proyectos/blob/main/sprint_14.ipynb)  
+**Herramientas utilizadas:** Python, Pandas, Matplotlib, Seaborn, Sklearn, Catboost, LightGBM  
+**Resumen:** Creé un modelo ML para predecir cancelaciones de clientes y proponer estrategias de retención.  
 
----
+### [Sprint 13: Predicción de demanda de taxis](https://github.com/WendyEstefi/TripleTen_proyectos/blob/main/sprint_13.ipynb)  
+**Herramientas utilizadas:** Python, Pandas, Numpy, Statsmodels, Sklearn  
+**Resumen:** Desarrollé un modelo de series temporales para predecir la demanda de taxis en un aeropuerto.  
 
-## 🛠️ My Skills  
+### [Sprint 12: Predicción de precios de vehículos](https://public.tableau.com/app/profile/wendy.chicaiza/viz/shared/7K4793HTG)  
+**Herramientas utilizadas:** Python, Pandas, Numpy, Sklearn, Catboost, LightGBM, XGBoost  
+**Resumen:** Construí un modelo ML para estimar precios de autos considerando precisión y tiempo de entrenamiento.  
 
-### Programming Languages  
-<p align="center"> 
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-%23007396.svg?style=plastic&logo=postgresql&logoColor=white">
-</p>
+### [Sprint 11: Análisis de clientes de seguros](https://github.com/WendyEstefi/TripleTen_proyectos/blob/main/sprint_11.ipynb)  
+**Herramientas utilizadas:** Python, Pandas, Numpy, Sklearn  
+**Resumen:** Identifiqué clientes similares y ofusqué datos personales sin perder precisión predictiva.  
 
-### Tools & Libraries  
-<p align="center"> 
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white">
-  <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=plastic&logo=plotly&logoColor=black">
-  <img alt="Seaborn" src="https://img.shields.io/badge/seaborn-%232E6E9E.svg?style=plastic">
-  <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white">
-</p>
+### [Sprint 10: Decisiones de negocio basadas en datos](https://github.com/WendyEstefi/TripleTen_proyectos/blob/main/sprint_10.ipynb)  
+**Herramientas utilizadas:** Python, Pandas, Sklearn  
+**Resumen:** Tomé decisiones estratégicas basadas en métricas y resultados de modelos predictivos.  
 
-### Software & Tools  
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=plastic&logo=google-sheets&logoColor=white">
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=plastic&logo=tableau&logoColor=white">
-</p>
+### [Sprint 9: Costos de marketing en Showz](https://github.com/WendyEstefi/TripleTen_proyectos/blob/main/sprint_9.ipynb)  
+**Herramientas utilizadas:** Python, Pandas, Matplotlib, Seaborn  
+**Resumen:** Analicé gastos de marketing y optimicé el presupuesto en base a desempeño y ROI.  
 
----
+### [Sprint 8: Viajes al aeropuerto O’Hare](https://github.com/WendyEstefi/TripleTen_proyectos/blob/main/proyecto_sprint_8.ipynb)  
+**Herramientas utilizadas:** Python, Pandas, Numpy, Scipy, Matplotlib  
+**Resumen:** Realicé pruebas de hipótesis sobre viajes desde el Loop hasta el aeropuerto O’Hare.  
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px></picture> GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WendyEstefi&theme=tokyonight_duo" alt="WendyEstefi Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WendyEstefi&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WendyEstefi&langs_count=6&theme=tokyonight&layout=compact" height="180px"/>
-</p>
+### [Sprint 7: Herramientas de desarrollo de software](https://github.com/WendyEstefi/proyecto_vehiculos)  
+**Herramientas utilizadas:** Python, Pandas, Seaborn  
+**Resumen:** Exploré desempeño de compañías de taxis y destinos de viajes.  
 
 ---
 
-## 🐍 A Snake Eating my Contributions Graph  
+## 📫 ¡Contactémonos!  
+- **E-mail:** wendyestefi1999@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/wendy-chicaiza/](https://www.linkedin.com/in/wendy-chicaiza/)  
+- **GitHub:** [https://github.com/WendyEstefi](https://github.com/WendyEstefi)  
+
+---
+
+## 🚀 Dato curioso  
+Creo que los datos, cuando se analizan correctamente, permiten tomar decisiones acertadas.  
+Mi misión es **convertir datos en información útil** para optimizar procesos y generar impacto social.  
+
+---
+
+## 🛠️ Mis estadísticas  
 <p align="center">
-	<img src="https://github.com/WendyEstefi/WendyEstefi/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WendyEstefi&show_icons=true&theme=radical" height="180px"/>
 </p>
