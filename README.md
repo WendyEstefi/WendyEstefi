@@ -71,6 +71,10 @@
 Creo que los datos bien analizados **permiten tomar decisiones acertadas**.  
 Mi misión es **convertir datos en información útil** para optimizar procesos y generar impacto social 💖  
 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 ---
 
 ## 📊 Mis estadísticas  
